@@ -1,3 +1,3 @@
 ��#� �r�e�p�o�
 �
-�base index.html
+�my first git project
